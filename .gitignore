@@ -1,0 +1,5 @@
+__pycache__/
+build/
+*.spec
+dist/*
+!dist/24-FlipClock-V1.0.exe
